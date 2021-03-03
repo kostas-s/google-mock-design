@@ -1,2 +1,5 @@
-# google-mock-design
-Simple clone of the google homepage
+# Google Mock Design
+Cloning Google's homepage design.
+
+---------
+Part of [https://www.theodinproject.com/](The Odin Project) curriculum.

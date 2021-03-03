@@ -2,4 +2,4 @@
 Cloning Google's homepage design.
 
 ---------
-Part of [https://www.theodinproject.com/](The Odin Project) curriculum.
+Part of [The Odin Project](https://www.theodinproject.com/) curriculum.

@@ -49,6 +49,26 @@ a:hover {
     box-shadow: 0 1px 2px 0 rgba(66,133,244,0.3),0 1px 3px 1px rgba(66,133,244,0.15);
 }
 
+.btn {
+    font-size: 0.9em;
+    padding: 9px 23px;
+    margin-left: 8px;
+    background-clip: border-box;
+    border-radius: 4px;
+    color:#3c4043;
+    background-color: #f8f9fa;
+    font-family: arial,sans-serif;
+    border: 1px solid #f8f9fa;
+}
+
+.btn:hover {
+    box-shadow: 0 1px 1px rgba(0,0,0,.1);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color: #202124;
+    cursor: pointer;
+}
+
 img {
     margin:auto;
 }
@@ -58,6 +78,12 @@ img {
     display: flex;
     align-content:center;
 }
+
+.buttons {
+    padding-top: 10px;
+    display: flex;
+}
+
 
 form {
     margin:auto;
@@ -107,7 +133,9 @@ form {
 }
 
 form:hover {
-    box-shadow: 0 1.4px 4.5px 0px rgba(0, 0, 0, 0.27);
+    background-color: #fff;
+    box-shadow: 0 1px 6px rgba(32,33,36,.28);
+    border-color: rgba(223,225,229,0);
 }
 
 input {
